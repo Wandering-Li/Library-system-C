@@ -28,6 +28,18 @@ By the way, we manage to detect the illegal input since some illegal input may c
 "Try again?(Y/N)"
 
 
+user interface
+![image](https://user-images.githubusercontent.com/86272490/211160267-9279137c-625f-4dfe-b79e-7a928cae2125.png)
+1. book search
+2. borrow
+3. return
+4. personal profile
+0. logout
+ 
+book search interface
+
+
+
 
 
 
