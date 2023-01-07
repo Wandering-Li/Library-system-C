@@ -1,0 +1,12 @@
+1 admath N N 2019 7 17 0 0 2019 8 18 0 0 s Mathematics zhaolina TongJi 
+2 admath N N 2019 7 17 0 0 2019 8 18 0 0 s Mathematics zhaolina TongJi 
+5 admath Y N 0 0 0 0 0 0 0 0 0 0 s Mathematics zhaolina TongJi 
+9 supermath Y N 0 0 0 0 0 0 0 0 0 0 s Mathematics zhaolina TongJi 
+10 supermath Y N 0 0 0 0 0 0 0 0 0 0 s Mathematics zhaolina TongJi 
+11 supermath Y N 0 0 0 0 0 0 0 0 0 0 s Mathematics zhaolina TongJi 
+12 supermath Y N 0 0 0 0 0 0 0 0 0 0 s Mathematics zhaolina TongJi 
+13 math Y N 0 0 0 0 0 0 0 0 0 0 / 789 456 123 
+14 math Y N 0 0 0 0 0 0 0 0 0 0 / 789 456 123 
+15 math Y N 0 0 0 0 0 0 0 0 0 0 / 789 456 123 
+16 math Y N 0 0 0 0 0 0 0 0 0 0 / 789 456 123 
+17 math Y N 0 0 0 0 0 0 0 0 0 0 / 789 456 123 
